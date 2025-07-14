@@ -3,7 +3,6 @@ import Contact from "./ui/Contact";
 import Hero from "./ui/Hero";
 import Methodology from "./ui/Methodology";
 import OurValues from "./ui/OurValues";
-import Portfolio from "./ui/Portfolio";
 import ServicesSection from "./ui/ServicesSection";
 
 
@@ -14,7 +13,6 @@ export default function Home() {
         <About/>
         <ServicesSection/>
         <Methodology/>
-        <Portfolio/>
         <OurValues/>
         <Contact/>
       </main>

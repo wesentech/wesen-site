@@ -13,7 +13,7 @@ export default function Footer() {
           <p className="text-sm mb-2 sm:mb-0">Nossas redes:</p>
           <div className="flex justify-center sm:justify-start items-center gap-4">
             <a
-              href="https://instagram.com/seuperfil"
+              href="https://instagram.com/wesentech"
               target="_blank"
               rel="noopener noreferrer"
               aria-label="Instagram da Wesen Technologies"
@@ -23,7 +23,7 @@ export default function Footer() {
             </a>
            
             <a
-              href="https://github.com/seuusuario"
+              href="https://github.com/wesentech"
               target="_blank"
               rel="noopener noreferrer"
               aria-label="GitHub da Wesen Technologies"
